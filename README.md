@@ -1,4 +1,4 @@
-face-detector
+#face-detector
 A simple face identifier written in Python using the OpenCV library
 
 Takes video input from connected webcam and highlights all faces identified.
